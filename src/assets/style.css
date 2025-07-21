@@ -1,0 +1,12 @@
+.navbar {
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+}
+
+.navlink {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
